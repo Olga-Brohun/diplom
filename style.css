@@ -1,0 +1,51 @@
+body{
+	width: 100%;
+	height: 100vh;
+	background: url(../img/img_5.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	
+	
+}
+
+.navbar{
+background-image: linear-gradient(to right, #2a2a2a, #2a2a2a, #2a2a2a, #2a2a2a, #2a2a2a);}
+
+.navbar-nav{
+	padding-right: 100px;
+	 line-height: 30px;
+}
+.nav-link p{
+	font-family: 'Caveat', cursive;
+	font-size: 1.1em;
+
+}
+nav .nav-item{
+	text-transform: uppercase;
+	margin-left: 50px;
+}
+
+.nav-item:hover{
+	background: green;
+	border-radius: 18%;
+	transition: 0.7s;
+}
+
+
+.brend{
+	font-family: 'Caveat', cursive;
+	color: #FFF ;
+	font-size: 2.6em;
+	text-shadow: 1px 0 #177A35, 2px 0 #177A35, 1px 0 #177A35, 4px 0 #177A35, 10px 0 #177A35;
+}
+
+.navbar-toggler{
+	background-color: #FFF !important;
+}
+
+
+
+
+
+ 
